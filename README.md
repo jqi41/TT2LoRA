@@ -22,5 +22,5 @@ python3 tt2lora_qd.py
 #### 1.2 Assessing LoRA
 python lora_qd.py
 
-### 1.3 Experimental TT-LoRA
-python tt-lora_qd.py
+#### 1.3 Experimental TT-LoRA
+python tt_lora_qd.py
